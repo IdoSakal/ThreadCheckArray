@@ -73,7 +73,7 @@ public class ThreadCheckArray implements Runnable
 				winArray[0] = true;
 				flag = true;
 				synchronized (sd) 
-				{
+				{ 
 					sd.setFlag(true);
 				}
 			}

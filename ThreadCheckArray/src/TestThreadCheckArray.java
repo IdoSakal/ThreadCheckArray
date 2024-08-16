@@ -54,7 +54,7 @@ public class TestThreadCheckArray {
                 for (int i = 0; i < counter; i++)
                     System.out.print(" ");
             }
-
+ 
             System.out.println();
             System.out.print("C:    ");
             for (boolean index : sd.getWinArray()) {

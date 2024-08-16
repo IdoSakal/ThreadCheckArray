@@ -11,7 +11,7 @@ public class SharedData {
      * The list of integers given from the input.
      */
     private ArrayList<Integer> array;
-    // private int [] array; 
+    // private int [] array;
 
     
     /**
